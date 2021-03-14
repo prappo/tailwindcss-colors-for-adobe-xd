@@ -1,7 +1,7 @@
 # TailwindCSS Colors Generator for XD
 ## Description
 
-This is a Adobe XD plugin that will help you to generate all color of TailwindCSS
+This is a Adobe XD plugin that will help you to generate all colors of TailwindCSS
 
 ## Demo
 
